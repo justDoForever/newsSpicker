@@ -22,7 +22,25 @@
 
 
 # 界面
-![login](https://github.com/justDoForever/newsSpicker/edit/master/image/login.png)
+
+
+
+
+
+
+
+![login](https://user-images.githubusercontent.com/52912000/112753309-adce0e80-9009-11eb-9ff7-109d3f60d07e.png)
+![userImage](https://user-images.githubusercontent.com/52912000/112753321-b7f00d00-9009-11eb-8c86-d36fd9463fe7.png)
+![picker](https://user-images.githubusercontent.com/52912000/112753324-be7e8480-9009-11eb-82a6-f11e8777f28f.png)
+![dataManage](https://user-images.githubusercontent.com/52912000/112753334-c4746580-9009-11eb-8538-7ca85f529ecf.png)
+![where](https://user-images.githubusercontent.com/52912000/112753340-c8a08300-9009-11eb-8918-79da6137eae0.png)
+![ciyuntu](https://user-images.githubusercontent.com/52912000/112753342-ca6a4680-9009-11eb-9ef7-6310959da9ef.png)
+![position](https://user-images.githubusercontent.com/52912000/112753345-cf2efa80-9009-11eb-96bf-8066e285ab87.png)
+![topk](https://user-images.githubusercontent.com/52912000/112753347-d0f8be00-9009-11eb-8c2f-8cc1c1b49395.png)
+![picker](https://user-images.githubusercontent.com/52912000/112753353-d5bd7200-9009-11eb-826b-c296a7afedba.png)
+![tuijian](https://user-images.githubusercontent.com/52912000/112753355-d81fcc00-9009-11eb-9973-953cc729b582.png)
+
+![image](https://github.com/justDoForever/newsSpicker/edit/master/image/login.png)
 ![image](https://github.com/justDoForever/newsSpicker/edit/master/image/userImage.png)
 ![image](https://github.com/justDoForever/newsSpicker/edit/master/image/dataManage.png)
 ![image](https://github.com/justDoForever/newsSpicker/edit/master/image/picker.png)
