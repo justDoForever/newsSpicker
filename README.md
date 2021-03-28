@@ -1,3 +1,5 @@
+![topci](https://user-images.githubusercontent.com/52912000/112753554-7ad84a80-900a-11eb-9f0d-e2c7170c3b9e.png)
+![ci](https://user-images.githubusercontent.com/52912000/112753560-7dd33b00-900a-11eb-8d42-27e27969dd3d.png)
 # newsSpicker
  # 网络新闻数据抓取与分析系统
  个人本科毕业设计
@@ -39,6 +41,8 @@
 ![topk](https://user-images.githubusercontent.com/52912000/112753347-d0f8be00-9009-11eb-8c2f-8cc1c1b49395.png)
 ![picker](https://user-images.githubusercontent.com/52912000/112753353-d5bd7200-9009-11eb-826b-c296a7afedba.png)
 ![tuijian](https://user-images.githubusercontent.com/52912000/112753355-d81fcc00-9009-11eb-9973-953cc729b582.png)
+![ci](https://user-images.githubusercontent.com/52912000/112753572-8e83b100-900a-11eb-8cab-a97e1e71151f.png)
+![topci](https://user-images.githubusercontent.com/52912000/112753575-95122880-900a-11eb-822d-b36731f8ed25.png)
 
 ![image](https://github.com/justDoForever/newsSpicker/edit/master/image/login.png)
 ![image](https://github.com/justDoForever/newsSpicker/edit/master/image/userImage.png)
