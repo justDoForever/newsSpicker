@@ -1,5 +1,4 @@
-![topci](https://user-images.githubusercontent.com/52912000/112753554-7ad84a80-900a-11eb-9f0d-e2c7170c3b9e.png)
-![ci](https://user-images.githubusercontent.com/52912000/112753560-7dd33b00-900a-11eb-8d42-27e27969dd3d.png)
+
 # newsSpicker
  # 网络新闻数据抓取与分析系统
  个人本科毕业设计
