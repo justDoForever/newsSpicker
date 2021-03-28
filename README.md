@@ -21,8 +21,8 @@
 
 # 界面
 ![image](https://github.com/justDoForever/newsSpicker/edit/master/image/login.png)
-![image](https://github.com/justDoForever/newsSpicker/edit/master/image/user image.png)
-![image](https://github.com/justDoForever/newsSpicker/edit/master/image/data manage.png)
+![image](https://github.com/justDoForever/newsSpicker/edit/master/image/userImage.png)
+![image](https://github.com/justDoForever/newsSpicker/edit/master/image/dataManage.png)
 ![image](https://github.com/justDoForever/newsSpicker/edit/master/image/picker.png)
 ![image](https://github.com/justDoForever/newsSpicker/edit/master/image/topk.png)
 ![image](https://github.com/justDoForever/newsSpicker/edit/master/image/ciyuntu.png)
